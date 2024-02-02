@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MNM-1810
+- 👋 Hi, I’m Manav Mehta
 - 👀 I’m interested in coding and making robots with Arduino
-- 🌱 I’m currently learning C, C++ and Python
-- 💞️ I’m looking to collaborate on various different Arduino projects
+- 🌱 I’m currently learning C, HTML, CSS and Python
 - 📫 How to reach me (manavnmehta18@gmail.com)
 
 <!---
