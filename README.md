@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manav Mehta
-- 👀 I’m interested in coding and making robots with Arduino
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning C, HTML, CSS and Python
 - 📫 How to reach me (manavnmehta18@gmail.com)
 
