@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manav Mehta
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning C, HTML, CSS and Python
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me (manavnmehta18@gmail.com)
 
 <!---
